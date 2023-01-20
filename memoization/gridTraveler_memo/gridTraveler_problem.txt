@@ -1,0 +1,8 @@
+You are a traveler on 2D grid. You begin in the top-left corner
+of the grid and your goal is to travel to the bottom-right corner.
+You may only move down and right.
+
+In how many ways can you travel to the goal on a grid
+with dimensions m * n ?
+
+Write a function gridTraveler(m,n) that calculates this.

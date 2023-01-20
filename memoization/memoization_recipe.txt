@@ -1,0 +1,9 @@
+1. Make it work
+    - Visualize the problem as a tree.
+    - Impliment the tree using recursion: Leaf = base case.
+    - Test it.
+2. Make it efficient 
+    - Add memo obj where key = args and values = return values.
+    - Add a base case to return memo values. If it exists in memo return it.
+    - Store return values in the memo.
+
